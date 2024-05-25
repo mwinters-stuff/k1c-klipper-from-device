@@ -5,3 +5,4 @@ out
 .config
 .config.old
 klippy/.version
+usr/**
